@@ -1,4 +1,3 @@
 # Ruby on Rails Tutorial: first application
 
-THis is the first application
-by Michael Hartl
+This is the first application
